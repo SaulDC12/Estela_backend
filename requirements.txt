@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+PyMySQL>=1.2
+python-dotenv
